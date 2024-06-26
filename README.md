@@ -1,2 +1,2 @@
-# MSA5-REACT
-리액트 수업
+# MSA5_REACT
+더조은아카데미 React 실습
